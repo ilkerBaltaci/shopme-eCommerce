@@ -1,9 +1,2 @@
-#img
-*.jpg
-*.png
 #.metadata
-#videos
-*.mp4
-#packages
-project.txt
 *.metadata
